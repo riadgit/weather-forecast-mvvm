@@ -3,5 +3,5 @@ A Weather Forcast Android App with MVVM Architecture, Kotlin, Coroutines, Retrof
 
 ![Screenshot](screenshot/scr.png)
 <p align="center">
-  <img src="relative/path/to/screenshot/scr.png" width="350" title="hover text">
+  <img src="../master/screenshot/scr.png" width="350" title="hover text">
 </p>
