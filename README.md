@@ -3,7 +3,7 @@ A Weather Forcast Android App with MVVM Architecture, Kotlin, Coroutines, Retrof
 
 ![Screenshot](screenshot/scr.png)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riadgit/weather_forrcast/screenshot/scr1.PNG" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/riadgit/weather_forecast/screenshot/scr1.PNG" width="350" title="hover text">
 </p>
 
-[https://raw.githubusercontent.com/riadgit/weather_forrcast/screenshot/scr1.PNG|alt=octocat]
+[https://raw.githubusercontent.com/riadgit/weather_forecast/screenshot/scr1.PNG|alt=octocat]
